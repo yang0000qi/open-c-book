@@ -28,17 +28,3 @@ v 0.2
 本书采用 ![CC BY NC ND 4.0](http://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png) 协议发布，详细版权信息请参考 [CC BY NC ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/)。
 
 <hr>
-
-<span id="follow"></span>
-### 关注我们
-
--   [新浪微博](http://weibo.com/tinylaborg)
-
-   [<img src="pic/tinylab-sina.jpg" width="168px"/>](http://weibo.com/tinylaborg)
-
--   微信公众号
-
-   <img src="pic/tinylab-weixin.jpg" width="168px"/>
-
-
-<span id="donate"></span>
