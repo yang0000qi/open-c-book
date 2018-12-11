@@ -1,11 +1,6 @@
-> 联系作者：笔者为一位[重度开源践行者](http://tinylab.org/hello-tinylab/#section-2)，可微信联系：lzufalcon<br>
-> 实验云台：[在线学 Linux，Linux 0.11，汇编，Shell，C ...](http://tinylab.cloud:6080)<br>
-> 本书来源：[开源书籍：C 语言编程透视](http://www.tinylab.org/open-c-book/) (by [泰晓科技](http://tinylab.org))<br>
-> 报名参与：*Star/fork* [GitHub 仓库](https://github.com/tinyclub/open-c-book) 并发送 *Pull Request*<br>
-> 关注我们：[扫描二维码](#follow) 关注 [@泰晓科技](http://weibo.com/tinylaborg) 微博和微信公众号<br>
-> 赞助我们：[捐助我们](#donate), [更多原创开源书籍](#more)需要您的支持 ^o^ <br>
-
 # C 语言编程透视
+
+  chapter2-2 介绍了gcc编译过程
 
 v 0.2
 
@@ -47,19 +42,3 @@ v 0.2
 
 
 <span id="donate"></span>
-### 赞助我们
-
-* 微信扫码赞助原创
-
-    <img src="pic/tinylab-sponsor.jpg" width="168px"/>
-
-* 访问 [泰晓开源小店](http://weidian.com/?userid=335178200) 支持心仪项目
-
-    [<img src="pic/tinylab-shop.jpg" width="168px"/>](http://weidian.com/?userid=335178200)
-
-<span id="more"></span>
-### 更多原创开源书籍
-
-* [Shell 编程范例](http://tinylab.gitbooks.io/shellbook/)
-* [嵌入式 Linux 知识库(eLinux.org 中文版)](http://tinylab.gitbooks.io/elinux/)
-* [Linux 内核文档(Linux Documentation/ 中文版)](http://tinylab.gitbooks.io/linux-doc/)
